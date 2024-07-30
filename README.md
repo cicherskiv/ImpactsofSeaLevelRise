@@ -6,4 +6,5 @@ For our analysis of the surrounding area of San Francisco, we used multiple data
 After data exploration, we tested many different regression models and used metrics such as MSE to determine the best model.
 
 The full report is located in Penguins Report.pdf.
-The code is 
+The code is located in Copy of Penguins_Competition.ipynb.
+The dataset is in Sea-Level-Change_Impacts.csv
